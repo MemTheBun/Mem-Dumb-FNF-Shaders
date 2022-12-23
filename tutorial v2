@@ -1,0 +1,7 @@
+ok so how to Install these shaders
+
+ok so download a shader then put it on mods/shaders --BE SURE THE SHADER IS ON .frag FILE PLZ
+
+create a new script in mods/scripts or on any song in mods/data/(Song Name) --BE SURE THE SCRIPT IS ON .lua FILE PLZ
+
+paste cam script on it
